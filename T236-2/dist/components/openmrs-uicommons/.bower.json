@@ -1,0 +1,31 @@
+{
+  "name": "openmrs-uicommons",
+  "main": "sass/src/main/resources/sass/reference/_reference.scss",
+  "ignore": [
+    "**/.*",
+    "*.java",
+    "*.gsp",
+    "*.xml",
+    "*.css",
+    "README.md",
+    "api",
+    "java",
+    "pom.xml",
+    "uicommons.iml",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/openmrs/openmrs-module-uicommons",
+  "description": "Common SASS for OpenMrs Reference Application",
+  "_release": "81f293d349",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "81f293d349e68473d65c343acd3da164aa1f0fe9"
+  },
+  "_source": "https://github.com/openmrs/openmrs-module-uicommons.git",
+  "_target": "master",
+  "_originalSource": "openmrs-uicommons"
+}
